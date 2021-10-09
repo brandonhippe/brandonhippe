@@ -1,5 +1,5 @@
 - Hi, I’m @brandonhippe (Brandon Hippe)
-- I'm a junior Computer Engineering student at Portland State University, and I'm also on Portland State's Cross Country and Track Teams
+- I'm a Computer Engineering student at Portland State University, in my Junior year, and I'm also on Portland State's Cross Country and Track Teams
 - I use my repositories for homework, and I also have some code I've written for Advent of Code here as well
 
 <!---
